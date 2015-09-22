@@ -11,6 +11,5 @@ Ecole de journalisme
 
 Pour pouvoir créer des infographies animées.
 Actuellement, je me contente d'infographies statiques ou animées sur Racontr, qui propose une interface sans code pour animer des contenus. 
-J'aimerais pouvoir forker des créations déjà existantes et les adapter, comme celles de [D3.js](www.D3.js)
-Mais pour cela il faut connaitre le JS et donc le HTML...
+J'aimerais pouvoir réutiliser des créations déjà existantes et les adapter, comme celles de [D3.js](www.D3.js)
 La formation de Simplon devrait, je l'espère, me donner de bonnes bases pour appréhender tout ça. 
